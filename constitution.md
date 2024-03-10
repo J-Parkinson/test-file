@@ -16,13 +16,15 @@ These rules constitute the governing contract of an unincorporated Association o
 
 When any intervals in time are mentioned in these rules they are to be interpreted as indicating the length of time that must elapse and not the number of whole Calendar periods that must elapse, unless there is explicit indication to the contrary.
 
-Any standing orders or other rules, orders or instructions derived from these rules or implemented under these rules are interpreted according to the same rules as would apply if they were part of the rules of the Association. The version of the Constitution at the moment whenever a constitutional amendment passes is to be considered the definitive version of the Constitution. The version on the website should be updated as soon as reasonably practicable. It is the duty of the Secretary to update it after every TGM to ensure its position as an up-to-date, legitimate document.
+Any standing orders or other rules, orders or instructions derived from these rules or implemented under these rules are interpreted according to the same rules as would apply if they were part of the rules of the Association. The version of the Constitution at the moment whenever a constitutional amendment passes is to be considered the definitive version of the Constitution. The version on GitHub and linked from the website should be updated as soon as reasonably practicable. It is the duty of the Secretary to update it after every TGM to ensure its position as an up-to-date, legitimate document.
 
 ### 1.3 Alteration of the Constitution
 
 The Constitution of the Association, with the exception of this paragraph, may be amended by a two-thirds majority vote of a General Meeting of the Association, so long as the nature of the constitutional amendment was set out in the notification of the General Meeting.
 
 No amendment to this Constitution intended to remove the position of the Senior Treasurer; to alter its prerogatives and duties or to change the criteria and procedure for the appointment of a Senior Treasurer can be put to a vote without the prior written agreement of the Junior Proctor of the University of Cambridge
+
+All amendments to the Constitution should be made using GitHub or another auditing method to preserve the transparency of changes to the Constitution and preserve its status as a legitimate, trustworthy document. 
 
 ### 1.4 Dissolution of the Association
 
@@ -233,7 +235,7 @@ The Speakers and Externals Officer-Elect is an executive Officer. They shall be 
 
 The Secretary shall properly record the minutes of the meetings of the Association (including attendance) in the Association’s minute book, and provide adequate notification of the date, time, and place of Committee meetings to the people eligible to attend. Minutes from General Meetings will be publicly available via the CUCA website. Minutes of Committee meetings will be uploaded to a private Google Drive, accessible only to the Committee, unless decided otherwise by a simple majority vote of the Committee. The Secretary shall also keep accurate records of the membership of the Association on the Committee’s Google Drive.
 
-The Secretary is responsible for making sure the Constitution of the Association is updated at the end of every General Meeting if required and that the version of the Constitution on the CUCA website is up to date.
+The Secretary is responsible for making sure the Constitution of the Association is updated at the end of every General Meeting if required and that the version of the Constitution on the CUCA website is up to date. They will also monitor any discourse on any proposed amendments to the Constitution, as listed on GitHub, such that no rules of this Constitution are broken. They will also monitor the audit trail of changes to the Constitution to ensure that no changes are made without being ratified through an Annual General Meeting. 
 
 The Secretary should also, in the course of each term, produce a written record of the speakers hosted by the Association, the approximate attendance at each of them, and anything notable said during these events. They should also include a record of the Port and Policy events held, the motions debated, and the paper speakers on each motion. In addition to this, the Secretary should record any additional significant events that occur within the society, including but not limited to special events, relevant news stories, and partnerships with other bodies. This record should exist electronically and also be filed as a paper copy.
 
@@ -311,9 +313,9 @@ A General Meeting is the superior body of the Association and may make decisions
 
 Unless the Committee decides otherwise it is held on the last Saturday of each Full Term. When a different date is decided upon members must be notified at least three days in advance of the meeting. Special General Meetings may be called, and the members must be notified of it by the Chairman, a decision of the Committee, or a request by no fewer than 30 members of the Association, or by no less than half the members of the Association. The period of notice shall be at least three days.
 
-Motions for a General Meeting must pertain to the administration of the Association and be notified to the Secretary no less than three days before the meeting. Motions to amend the Constitution must be received by the Secretary no less than three days before the meeting. 
+Motions for a General Meeting must pertain to the administration of the Association and be notified to the Secretary no less than three days before the meeting. Motions to amend the Constitution must be received by the Secretary through a request on GitHub no less than three days before the meeting. 
 
-The quorum of a General Meeting is 10 voting members or half the Association eligible to vote, if less. No substantive motion nor amendment may be passed unless 10 voting members or half the Association eligible to vote, vote in favour. Unless otherwise specified, motions shall be passed by a simple majority. Amendments to the constitution require a two thirds majority. The Chairman shall have the right to accept amendments to motions at any point during the General Meeting until the vote is called.
+The quorum of a General Meeting is 10 voting members or half the Association eligible to vote, if less. No substantive motion nor amendment may be passed unless 10 voting members or half the Association eligible to vote, vote in favour. Unless otherwise specified, motions shall be passed by a simple majority. Amendments to the constitution require a two thirds majority. The Chairman shall have the right to accept amendments to motions at any point during the General Meeting until the vote is called. Amendments to motions will be added to the original request and will then be merged into the Constitution without further amendment. 
 
 _________________________________
 
