@@ -20,7 +20,7 @@ jobs:
       - uses: baileyjm02/markdown-to-pdf@v1
         with:
           input_dir: ""
-          output_dir: ""
+          output_dir: pdfs
           images_dir: images
           image_import: ./images
           # Default is true, can set to false to only get PDF files
@@ -28,4 +28,4 @@ jobs:
       - uses: actions/upload-artifact@v3
         with:
           name: ""
-          path: ""
+          path: pdfs
