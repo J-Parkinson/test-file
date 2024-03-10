@@ -418,7 +418,7 @@ At a Committee Meeting in the second week of the Easter Term the Committee shall
 
 ### 6.3.
 
-A candidate for appointment to Treasurern must meet the following requirements:
+A candidate for appointment to Treasurer must meet the following requirements:
 
 (a) They must during their period of service be a member of and resident in, an approved institution within the University of Cambridge.
 (b) They must not be in debt to the Association and notified as such by the Treasurer at least 48 hours before the close of nominations.
