@@ -6,7 +6,7 @@ The Association shall be known as the Cambridge University Conservative Associat
 
 ### 1.1 Objects of the Association
 
-The objects of the Association shall be to promote knowledge, discussion and support of conservative policy, practice, and philosophy both within the university and outside and to provide active assistance for the conservative cause.
+The objects of the Association shall be to promote knowledge, discussion, and support of conservative policy, practice, and philosophy both within the university and outside and to provide active assistance for the conservative cause.
 
 While the Association supports the Conservative Party and conservative causes, it is not a part of the Conservative Party or the Young Conservatives.
 
@@ -16,7 +16,7 @@ These rules constitute the governing contract of an unincorporated Association o
 
 When any intervals in time are mentioned in these rules they are to be interpreted as indicating the length of time that must elapse and not the number of whole Calendar periods that must elapse, unless there is explicit indication to the contrary.
 
-Any standing orders or other rules, orders or instructions derived from these rules or implemented under these rules are interpreted according to the same rules as would apply if they were part of the rules of the Association. The version of the Constitution at the moment whenever a constitutional amendment passes is to be considered the definitive version of the Constitution. The version on the website should be updated as soon as reasonably practicable. It is the duty of the Secretary to update it after every TGM to ensure its position as an up-to-date, legitimate document.
+Any standing orders or other rules, orders, or instructions derived from these rules or implemented under these rules are interpreted according to the same rules as would apply if they were part of the rules of the Association. The version of the Constitution at the moment whenever a constitutional amendment passes is to be considered the definitive version of the Constitution. The version on the website should be updated as soon as reasonably practicable. It is the duty of the Secretary to update it after every TGM to ensure its position as an up-to-date, legitimate document.
 
 ### 1.3 Alteration of the Constitution
 
@@ -26,11 +26,11 @@ No amendment to this Constitution intended to remove the position of the Senior 
 
 ### 1.4 Dissolution of the Association
 
-A General Meeting of the Association may vote to wind up the Association by a two-thirds majority vote. Where the membership of the Association has declined so that the necessary quota is not possible, a simple two-thirds vote of the membership will suffice. The residual assets of the Association on dissolution are to be utilised so as to support of the objects of the Association as far as is possible.
+A General Meeting of the Association may vote to wind up the Association by a two-thirds majority vote. Where the membership of the Association has declined so that the necessary quota is not possible, a simple two-thirds vote of the membership will suffice. The residual assets of the Association on dissolution are to be utilised so as to support of the objects of the Association as far as possible.
 
 ### 1.5 Status as a University Society
 
-The Association shall seek, so long as its purposes are not compromised by so doing, to be a society recognised by the Societies Syndicate of the University or appropriate successor bodies.
+The Association shall seek, so long as its purposes are not compromised by so doing, to be a society recognized by the Societies Syndicate of the University or appropriate successor bodies.
 
 ### 1.6 Distribution of profits
 
@@ -57,7 +57,7 @@ Membership is not open to persons who have been expelled from the Association.
 
 Names of new members must be lodged separately with the Secretary and the Treasurer as soon as the proper subscription has been paid. Once this has been done, they may only be expelled from the Association by the procedure described in these rules.
 
-The Committee may decide to refuse membership to particular individuals if they believe that the individual is likely to bring the Association into disrepute by their being a member of the Association. This requires a twothirds majority vote. Appeal against such a decision may be made to the Senior Treasurer whose decision is final in such matters. Applicants so refused membership must be informed of this right to appeal.
+The Committee may decide to refuse membership to particular individuals if they believe that the individual is likely to bring the Association into disrepute by their being a member of the Association. This requires a two-thirds majority vote. Appeal against such a decision may be made to the Senior Treasurer whose decision is final in such matters. Applicants so refused membership must be informed of this right to appeal.
 
 Ordinary Members shall pay a subscription whose amount shall be determined by the Committee. Any changes to the level of subscription do not take effect until announced at a Termly General Meeting of the Association, or until a General Meeting of the Association to that effect passes a motion.
 
@@ -69,7 +69,7 @@ An individual may have their membership of the Association revoked or suspended 
 
 ### 2.3 Associate Membership
 
-The Committee may admit Associate members of the Association, either as individuals or according to the membership of other Conservative groups. This is to be decided by a majority vote of Committee. Individual Associate members shall be liable for the same subscription fee as is due from Ordinary members of the Association.
+The Committee may admit Associate members of the Association, either as individuals or according to the membership of other Conservative groups. This is to be decided by a majority vote of the Committee. Individual Associate members shall be liable for the same subscription fee as is due from Ordinary members of the Association.
 
 Groups invited to become Associate members will not be so described by the Association until they have indicated that they wish to take up the membership.
 
@@ -79,11 +79,11 @@ The list of individuals and groups who are to be Associate members of the Associ
 
 ### 2.4 Honorary and Senior Officers
 
-The Association shall have Honorary Officers comprising a President, any number of Patrons and up to 20 Vice-Presidents. These offices must only be held by people of distinction who are supporters of the Conservative cause. Patrons should have contributed significantly to the operation of the Association or be expected to do so in the future.
+The Association shall have Honorary Officers comprising a President, any number of Patrons, and up to 20 Vice-Presidents. These offices must only be held by people of distinction who are supporters of the Conservative cause. Patrons should have contributed significantly to the operation of the Association or be expected to do so in the future.
 
-An invitation to become an Honorary Officer of the Association may be extended by a simple majority vote of committee. The invitation is valid for a period of six months. The Honorary Officer takes office if they respond positively to the invitation within six months. Invitations once extended may not be withdrawn.
+An invitation to become an Honorary Officer of the Association may be extended by a simple majority vote of the committee. The invitation is valid for a period of six months. The Honorary Officer takes office if they respond positively to the invitation within six months. Invitations once extended may not be withdrawn.
 
-An Honorary Officer may be removed by a two thirds majority vote of General Meeting. The Senior Officer of the Association is the Senior Treasurer. The Senior Treasurer must be a member of the Regent House, or another resident Senior member of the University approved by the Junior Proctor of the University of Cambridge.
+An Honorary Officer may be removed by a two-thirds majority vote of General Meeting. The Senior Officer of the Association is the Senior Treasurer. The Senior Treasurer must be a member of the Regent House, or another resident Senior member of the University approved by the Junior Proctor of the University of Cambridge.
 
 The Senior Treasurer shall be appointed by a simple majority of a General Meeting and shall hold office subject to reappointment in the Termly General Meeting of the subsequent Lent Term.
 
@@ -95,7 +95,7 @@ Such members may only, with the sole exception of the Senior Treasurer of the As
 
 ### 2.6 Resignation of Membership
 
-Members will be deemed to have resigned only when they do so in writing to the Chairman of the Association, or a second annual subscription for that member is not paid. Once a member has resigned, they will have to pay a new subscription if they wish to re-join and any payments prior to their resignation are not to count towards their life membership fee.
+Members will be deemed to have resigned only when they do so in writing to the Chairman of the Association, or a second annual subscription for that member is not paid. Once a member has resigned, they will have to pay a new subscription if they wish to rejoin and any payments prior to their resignation are not to count towards their life membership fee.
 
 _________________________________
 
@@ -127,11 +127,11 @@ The Committee takes decisions concerning the day-to-day running of the Associati
 
 The Committee is responsible for the ratification of candidates whom the Campaigns Officer has proposed as standing for elections outside the Association with the support of the Association. The Association cannot support particular candidates for its own internal elections.
 
-Not more than 14 Full Term days may elapse between meetings of the Committee. A Committee may be summoned by the Chairman or by the request of majority of the members of the Committee.
+Not more than 14 Full Term days may elapse between meetings of the Committee. A Committee may be summoned by the Chairman or by the request of a majority of the members of the Committee.
 
 Should any member of the Committee fail to attend two meetings, the Secretary must inform them at least 72 hours in advance of the next meeting, and should they fail to attend the third consecutive meeting without a bona fide reason, they will be deemed to have resigned from their post and the process designated under 3.4 will be initiated. A member of Committee will also be deemed to have failed to attend a meeting if they do not stay for at least 10 minutes, or if the meeting ceased to be quorate because of their departure during it. This rule shall not apply to meetings of less than ten minutes duration which were closed by unanimous and quorate consent of those present. When a member of the Committee is unable to fulfil their duties, they are to be managed ad-hoc by other members of the Committee until a replacement can be found in accordance with the rules set out for their election or appointment, in line with 3.4 below.
 
-The Committee has the power to create sub-committees which shall be chaired by the relevant Executive or Non-Executive Officer. The Committee shall by simple majority exercise the power to create sub-committees and deem which Officer is the relevant Chairman of the Sub-Committee. The Chairman of the Association shall sit on all of these committees by default (except the initially existing subcommittees, though they may be appointed) and possess the power to summon all of them. The Chairman of the Sub-Committee shall also possess the power to summon their subcommittee. The Chairman of the Association is not precluded from serving as Chairman of any sub-committee. The relevant officer is to decide upon the composition of sub-committees and to create all other rules for their operation and membership. A sub- committee need not contain solely those who are members of the Committee. A sub-committee may only take action in areas designated upon its creation and under no circumstances may incur expenses that have not been approved by the Committee. The members of a sub- committee are personally liable for any expenses incurred without proper authority. The sub- committees of the Association that exist initially when this Constitution comes into force are listed in Schedule III below.
+The Committee has the power to create sub-committees which shall be chaired by the relevant Executive or Non-Executive Officer. The Committee shall by simple majority exercise the power to create sub-committees and deem which Officer is the relevant Chairman of the Sub-Committee. The Chairman of the Association shall sit on all of these committees by default (except the initially existing subcommittees, though they may be appointed) and possess the power to summon all of them. The Chairman of the Sub-Committee shall also possess the power to summon their subcommittee. The Chairman of the Association is not precluded from serving as Chairman of any sub-committee. The relevant officer is to decide upon the composition of sub-committees and to create all other rules for their operation and membership. A sub-committee need not contain solely those who are members of the Committee. A sub-committee may only take action in areas designated upon its creation and under no circumstances may incur expenses that have not been approved by the Committee. The members of a sub-committee are personally liable for any expenses incurred without proper authority. The sub-committees of the Association that existed initially when this Constitution came into force are listed in Schedule III below.
 
 All executive Committee members, as well as both Alumni officers, leaving office must arrange a handover meeting with their successor. This shall not apply to appointed members. Handover meetings shall involve a discussion of the powers and duties of each respective role. If a meeting cannot be arranged, then the former Officer must deposit a handover document detailing important information regarding their role with the incoming Chairman. If an outgoing Officer fails to organise a handover meeting or deposit a handover document with the incoming Chairman within two weeks of leaving office, then that former Officer shall be deemed to have resigned their membership of the Association.
 
@@ -139,11 +139,11 @@ All executive Committee members, as well as both Alumni officers, leaving office
 
 A Committee member will be deemed to have resigned from their position on the Committee only when they do so in writing to the Chairman of the Association. Committee resignation does not resign ordinary membership.
 
-In the case of Committee resignation, the duties of the resigning member must be met. All duties and powers of the vacant position may be exercised by the Committee ad-hoc in accordance with the spirit set out in 3.3 for officers unable to fulfil their duties. The Committee shall exercise these powers by majority vote, or by temporarily vesting particular duties and powers in officers whom the Committee shall choose by simple majority. The manner of replacement lies at the discretion of the Committee by a motion carried with a simple majority vote, apart from in the case where the Chairmanship is vacant. In the latter case the manner of replacement will be at the discretion of the Vice-Chairman.
+In the case of Committee resignation, the duties of the resigning member must be met. All duties and powers of the vacant position may be exercised by the Committee ad-hoc in accordance with the spirit set out in 3.3 for officers unable to fulfil their duties. The Committee shall exercise these powers by majority vote, or by temporarily vesting particular duties and powers in officers whom the Committee shall choose by simple majority. The manner of replacement lies at the discretion of the Committee by a motion carried with a simple majority vote, apart from in the case where the Chairmanship is vacant. In the latter case, the manner of replacement will be at the discretion of the Vice-Chairman.
 
 Nobody may hold more than one Officer position at any time. They must resign their position before taking up another one.
 
-Someone may only be appointed Chairman or Vice-Chairman if they have served an entire Full Term as an Executive Officer or obtain the permission (by simple majority vote) of Committee in the term they are appointed. This should not be confused with a special, separate matter: the mechanism by which, usually as a penalty, an individual is deemed to have either resigned or offered resignation to Commitee. Where someone is deemed to have resigned their post, the act itself cannot be overridden by Committee. However, a different situation arises where the Constitution indicates the resignation is automatically offered to Committee. The Committee shall, in such cases of automatically offered resignation, have the power to reject the automatic offer of resignation by a motion passed with a simple majority vote. Such a vote is not necessary as the matter can simply not be brought up, however if resignation is rejected then the condition which triggered the situation will be treated in constitutional terms as if it had not happened. Where an officer has been deemed to resign, as opposed to having been deemed to their resignation, the post falls vacant. Unless forbidden by this constitution, the former holder of the post may be reappointed using existing powers like any eligible Member.
+Someone may only be appointed Chairman or Vice-Chairman if they have served an entire Full Term as an Executive Officer or obtain the permission (by simple majority vote) of Committee in the term they are appointed. This should not be confused with a special, separate matter: the mechanism by which, usually as a penalty, an individual is deemed to have either resigned or offered resignation to Commitee. Where someone is deemed to have resigned from their post, the act itself cannot be overridden by Committee. However, a different situation arises where the Constitution indicates that the resignation is automatically offered to Committee. The Committee shall, in such cases of automatically offered resignation, have the power to reject the automatic offer of resignation by a motion passed with a simple majority vote. Such a vote is not necessary as the matter can simply not be brought up; however, if resignation is rejected then the condition which triggered the situation will be treated in constitutional terms as if it had not happened. Where an officer has been deemed to resign, as opposed to having been deemed to their resignation, the post falls vacant. Unless forbidden by this constitution, the former holder of the post may be reappointed using existing powers like any eligible Member.
 
 ### 3.5 The Powers and Duties of the Senior Treasurer
 
@@ -157,7 +157,7 @@ Senior Treasurer shall include:
 
 (i) disqualification from candidature for, or election to, or from the holding of, any office, position, or other place within the Association.
 (ii) suspension from, or deprivation of, membership of the Association; and
-(iii) nullifying any decision made by any other person or body, except a two thirds majority of a General meeting within the Association which has, or purports to have, the effect of disqualification or suspension or deprivation as aforesaid; provided always that the Senior Treasurer shall not suspend from or deprive of membership of the Association any person whom they are satisfied acted in good faith.
+(iii) nullifying any decision made by any other person or body, except a two-thirds majority of a General meeting within the Association which has, or purports to have, the effect of disqualification or suspension or deprivation as aforesaid; provided always that the Senior Treasurer shall not suspend from or deprive of membership of the Association any person whom they are satisfied acted in good faith.
 
 Any member affected by any ruling given by the Senior Treasurer may appeal to a General Meeting, a quorate two-thirds majority vote of which shall overturn that ruling. The Senior Treasurer shall not be liable for any financial debt or other obligation of the Association unless they have personally authorised such a debt in writing.
 
@@ -180,17 +180,17 @@ They are also responsible for the preparation of the programme of the Associatio
 The Treasurer shall, under the supervision of the
 Senior Treasurer, be responsible for the financial affairs of the Association. The Treasurer shall keep adequate and up-to-date records of the accounts of the Association. Failure to do so shall result in the Treasurer being deemed to have offered to the Committee their resignation from office, in accordance with the judgement of Committee.
 
-The Treasurer shall submit a full and up to date set of accounts to the Committee once every month. Failure to do so shall result in the Treasurer being deemed to have offered to the Committee their resignation from office. The Treasurer shall present a full and up-to-date set of accounts at the Termly General Meeting in Easter term at the end of their period of office, and shall submit these accounts to the Junior Proctor, and shall send copies to the Senior Treasurer within three days of the meeting.
+The Treasurer shall submit a full and up-to-date set of accounts to the Committee once every month. Failure to do so shall result in the Treasurer being deemed to have offered to the Committee their resignation from office. The Treasurer shall present a full and up-to-date set of accounts at the Termly General Meeting in Easter term at the end of their period of office, and shall submit these accounts to the Junior Proctor, and shall send copies to the Senior Treasurer within three days of the meeting.
 
 The Treasurer shall also be responsible for ensuring their successor is adequately aware of and familiar with the role and its requirements.
 
 #### 3.7.1 Responsibility for Expenditure, Deficits and Savings
 
-No expenditure below a limit fixed by a General Meeting of the Association and initially set out in Schedule II below may be incurred by the Association without the prior and explicit approval of the Treasurer. No expenditure above a limit, fixed by a General Meeting of the Association and initially set at the level given in Schedule II below, may be incurred without the specific approval of the Chairman. Committee may override the decision of the Chairman, and thus approve or reject the expenditure, by majority vote.
+No expenditure below a limit fixed by a General Meeting of the Association and initially set out in Schedule II below may be incurred by the Association without the prior and explicit approval of the Treasurer. No expenditure above a limit, fixed by a General Meeting of the Association and initially set at the level given in Schedule II below, may be incurred without the specific approval of the Chairman. Committee may override the decision of the Chairman, and thus approve or reject the expenditure, by a majority vote.
 
-The Association may, by approval of the Treasurer, undertake Operational debt whereby the Association is obligated to reimburse members of Committee who spend personal finance for the approved benefit of the Association. Reimbursement must occur within 7 days of payment. If it does not occur, the person or body wishing to be reimbursed may send a notification in writing to the Treasurer and the Chairman via their university e-mail addresses. If a further 7 days without reimbursement should elapse after the Treasurer and Chairman receive this notification, the Treasurer will be deemed to have resigned their post and the Chairman offered their resignation to Committee. This rule will not apply to any reimbursement which the Treasury Committee has deemed manifestly unfounded or excessive, however such a decision about a reimbursement may be overruled by two-thirds of Committee. This rule also only functions provided that no reimbursement which is vexatious, fraudulent, or with a criminal purpose shall fall within its scope. The intentional payment of vexatious, fraudulent, or criminally-intended funds will constitute the immediate resignation of the Treasurer and leave the ex-Treasurer owing the same sum to the Association as a debt. The ex-Treasurer may not hold any Committee post in future in this case. The forgiving of this debt for a vexatious, fraudulent, or criminal purpose will constitute the same for any officer responsible. For debts of above the Schedule II limit, the usual rules on approval of expenditure also apply.
+The Association may, by approval of the Treasurer, undertake Operational debt whereby the Association is obligated to reimburse members of Committee who spend personal finance for the approved benefit of the Association. Reimbursement must occur within 7 days of payment. If it does not occur, the person or body wishing to be reimbursed may send a notification in writing to the Treasurer and the Chairman via their university e-mail addresses. If a further 7 days without reimbursement should elapse after the Treasurer and Chairman receive this notification, the Treasurer will be deemed to have resigned their post and the Chairman offered their resignation to Committee. This rule will not apply to any reimbursement which the Treasury Committee has deemed manifestly unfounded or excessive; however, such a decision about a reimbursement decision may be overruled by two-thirds of Committee. This rule also only functions provided that no reimbursement which is vexatious, fraudulent, or with a criminal purpose shall fall within its scope. The intentional payment of vexatious, fraudulent, or criminally-intended funds will constitute the immediate resignation of the Treasurer and leave the ex-Treasurer owing the same sum to the Association as a debt. The ex-Treasurer may not hold any Committee post in future in this case. The forgiving of this debt for a vexatious, fraudulent, or criminal purpose will constitute the same for any officer responsible. For debts above the Schedule II limit, the usual rules on approval of expenditure also apply.
 
-If a debt is proposed which is not to be repaid fully within that Committee session, it is to be considered Successive debt. Successive debt requires unanimous approval by Committee.
+If a debt is proposed that is not to be repaid fully within that Committee session, it is to be considered Successive debt. Successive debt requires unanimous approval by Committee.
 
 Expenditure incurred outside the scope of these rules is not the responsibility of the Association. The individual who incurred the expenditure is wholly responsible for it.
 
@@ -206,7 +206,7 @@ The interest accrued from the savings account may be allocated at the discretion
 
 ### 3.9 The Powers and Duties of the Campaigns Officer
 
-The Campaigns Officer shall have a responsibility and duty to organise campaigns, meetings, policy discussion meetings, social action meetings and related events, which promote any cause of the Conservative and Unionist Party or the cause of conservatism within the wider university.
+The Campaigns Officer shall have a responsibility and duty to organise campaigns, meetings, policy discussion meetings, social action meetings, and related events, which promote any cause of the Conservative and Unionist Party or the cause of conservatism within the wider university.
 
 Additionally, they shall have responsibility for the running of campaigns for the election of Conservative candidates within and outside the University, approved as per 3.3. The Campaigns officer shall keep accurate and fair records of attendance at Campaigns meetings.
 
@@ -214,7 +214,7 @@ The Campaigns Officer shall also be responsible for ensuring that their successo
 
 ### 3.10 The Powers and Duties of the Communications and Publicity Officer
 
-The Communications and Publicity Officer shall be responsible for the promotion of the Association’s public profile and events programme, as well as communicating necessary information both about the procedures of the Association and its upcoming events to members.
+The Communications and Publicity Officer shall be responsible for the promotion of the Association’s public profile and events program, as well as communicating necessary information both about the procedures of the Association and its upcoming events to members.
 
 The Communications and Publicity Officer shall maximise all available online and offline media to this effect, be responsible for the distribution of printed publicity, and coordinate press engagement as and when necessary, under the authority of the Chairman.
 
@@ -222,12 +222,12 @@ All online and offline media shall be approved by the Chairman prior to circulat
 
 ### 3.11 The Powers and Duties of the Speakers and Externals Officer
 
-The Speakers and Externals Officer-Elect shall automatically take the role of Speakers and External officer upon the conclusion of their term. The Speakers and Externals Officer shall be responsible for inviting and securing individuals external to the Association to visit in order to address the Association and its membership. They shall do so with deference to the wishes of the Chairman.
+The Speakers and Externals Officer-Elect shall automatically take the role of Speakers and External Officer upon the conclusion of their term. The Speakers and Externals Officer shall be responsible for inviting and securing individuals external to the Association to visit and address the Association and its membership. They shall do so with deference to the wishes of the Chairman.
 
 The Speakers and Externals Officer shall also be responsible for the execution and logistics of these events, including but not limited to securing a room for the event, taking care of the speaker’s hospitality, sourcing and providing any equipment required, and coordinating Committee presence. The Speakers and Externals Officer shall also be responsible for communications with think- tanks, political groups, and other bodies.
 
 ### 3.12 The Powers and Duties of the Speakers and Externals Officer-Elect
-The Speakers and Externals Officer-Elect is an executive Officer. They shall be responsible for organising and preparing speakers events for the subsequent term, in which they shall ascend to the role of Speakers and Externals Officer. They shall report to the Vice Chairman on the progress of the speakers events for the subsequent term.
+The Speakers and Externals Officer-Elect is an executive Officer. They shall be responsible for organising and preparing speakers' events for the subsequent term, in which they shall ascend to the role of Speakers and Externals Officer. They shall report to the Vice Chairman on the progress of the speaker's events for the subsequent term.
 
 ### 3.13 The Powers and Duties of the Secretary
 
@@ -235,11 +235,11 @@ The Secretary shall properly record the minutes of the meetings of the Associati
 
 The Secretary is responsible for making sure the Constitution of the Association is updated at the end of every General Meeting if required and that the version of the Constitution on the CUCA website is up to date.
 
-The Secretary should also, in the course of each term, produce a written record of the speakers hosted by the Association, the approximate attendance at each of them, and anything notable said during these events. They should also include a record of the Port and Policy events held, the motions debated, and the paper speakers on each motion. In addition to this, the Secretary should record any additional significant events that occur within the society, including but not limited to special events, relevant news stories, and partnerships with other bodies. This record should exist electronically and also be filed as a paper copy.
+The Secretary should also, through the course of each term, produce a written record of the speakers hosted by the Association, the approximate attendance at each of them, and anything notable said during these events. They should also include a record of the Port and Policy events held, the motions debated, and the paper speakers on each motion. In addition to this, the Secretary should record any additional significant events that occur within the society, including but not limited to special events, relevant news stories, and partnerships with other bodies. This record should exist electronically and also be filed as a paper copy.
 
 ### 3.14 The Powers and Duties of the Social Events Officer
 
-The Social Events Officer shall be responsible for organising a programme of social events for the term they are in office. They shall do so with reference to the Chairman. This includes where appropriate, although is not limited to, securing venues, providing refreshments, booking entertainment, and coordinating Committee presence.
+The Social Events Officer shall be responsible for organising a program of social events for the term they are in office. They shall do so in cooperation with the Chairman. This includes where appropriate, although is not limited to, securing venues, providing refreshments, booking entertainment, and coordinating Committee presence.
 
 ### 3.15 The Role of Appointed Members
 
@@ -249,7 +249,7 @@ Appointed members may be given specific responsibilities at the discretion of th
 
 ### 3.16 The Censure of Committee Members
 
-In instances including but not limited to neglect of responsibilities, inability to perform responsibilities, bringing of the Association into disrepute or any other serious constitutional infraction, the Chairman or two-thirds of the committee may call a Committee vote for the censure of a Committee member. A vote of censure shall only pass if two-thirds of the Committee approve it. If a Committee member is successfully censured, they will be removed from office immediately.
+In instances including but not limited to neglect of responsibilities, inability to perform responsibilities, bringing of the Association into disrepute, or any other serious constitutional infraction, the Chairman or two-thirds of the committee may call a Committee vote for the censure of a Committee member. A vote of censure shall only pass if two-thirds of the Committee approves it. If a Committee member is successfully censured, they will be removed from office immediately.
 
 The member in question may appeal their censure to the Senior Treasurer.
 
@@ -257,13 +257,13 @@ Censure from Committee shall not mandate expulsion from ordinary membership of t
 
 ### 3.17 Powers and Duties of the Alumni Officers
 
-There shall be two Alumni Officers. These officers shall be non-executive members Committee in addition to the as many as ten Appointed Members. These positions shall come into being notwithstanding any other parts of this Constitution. The role of the Alumni Officer is to provide a point of contact between the Association and Life Members who have graduated. Working in close conjunction with the Chairman and the Communications Officer, the Alumni Officers will cultivate positive relations. 
+There shall be two Alumni Officers. These officers shall be non-executive members Committee in addition to as many as ten Appointed Members. These positions shall come into being notwithstanding any other parts of this Constitution. The role of the Alumni Officer is to provide a point of contact between the Association and Life Members who have graduated. Working in close conjunction with the Chairman and the Communications Officer, the Alumni Officers will cultivate positive relations. 
 
 The Alumni Officers are responsible for maintaining the records of graduating members, including but not limited to a personal email address, and general contact information.
 
-The Alumni Officer are responsible for ensuring suitable CUCA events, specifically the termly Chairman’s Dinner, are promoted amongst the graduate Life Members. They are also, acting within the rule which require all communications to be approved by the Chairman, to respond to any queries from the alumni community.
+The Alumni Officer are responsible for ensuring suitable CUCA events, specifically the termly Chairman’s Dinner, are promoted amongst the graduate Life Members. They are also, acting within the rule which requires all communications to be approved by the Chairman, to respond to any queries from the alumni community.
 
-The Alumni Officers are accountable to the Committee. Furthermore, they must not undertake any project or event on behalf of the Association without the approval of Chairman.
+The Alumni Officers are accountable to the Committee. Furthermore, they must not undertake any project or event on behalf of the Association without the approval of the Chairman.
 
 At least one Alumni Officer must be a graduate of either the University of Cambridge or Anglia Ruskin University and simultaneously a Chairman Emeritus. The other Alumni Officer may either be a graduate of one of the aforementioned universities or a current member in statu pupillari.
 
@@ -313,7 +313,7 @@ Unless the Committee decides otherwise it is held on the last Saturday of each F
 
 Motions for a General Meeting must pertain to the administration of the Association and be notified to the Secretary no less than three days before the meeting. Motions to amend the Constitution must be received by the Secretary no less than three days before the meeting. 
 
-The quorum of a General Meeting is 10 voting members or half the Association eligible to vote, if less. No substantive motion nor amendment may be passed unless 10 voting members or half the Association eligible to vote, vote in favour. Unless otherwise specified, motions shall be passed by a simple majority. Amendments to the constitution require a two thirds majority. The Chairman shall have the right to accept amendments to motions at any point during the General Meeting until the vote is called.
+The quorum of a General Meeting is 10 voting members or half the Association eligible to vote, if less. No substantive motion nor amendment may be passed unless 10 voting members or half the Association eligible to vote, vote in favour. Unless otherwise specified, motions shall be passed by a simple majority. Amendments to the Constitution require a two-thirds majority. The Chairman shall have the right to accept amendments to motions at any point during the General Meeting until the vote is called.
 
 _________________________________
 
@@ -339,23 +339,23 @@ No member shall be eligible to stand for election to Committee unless they meet 
 (a) He must during his period of service be a member of and resident in, an approved institution within the University of Cambridge.
 (b) He must not be in debt to the Association and notified as such by the Treasurer at least 48 hours before the close of nominations.
 (c) He must be a member of the Conservative and Unionist Party, OR no other UK political party.
-(d) The Returning Officers will enable members to individually verify determine whether or not they are included on the Electoral Roll 24 hours before voting opens. Any discrepancies must, if appropriate, be corrected. The Electoral Role on the close of polls is final.
+(d) The Returning Officers will enable members to individually verify and determine whether or not they are included on the Electoral Roll 24 hours before voting opens. Any discrepancies must, if appropriate, be corrected. The Electoral Role at the close of polls is final.
 (e) He must not be currently holding the office of Chairman of the Association.
 (f) He must have, if currently serving as Secretary, lodged with the Returning Officers copies of all correspondence entered into on behalf of the Association during that term of office in addition to a complete record of the Association’s activities that term, as laid out in 3.13.
 (g) They must have, by the end of the full term in which they are standing for election, attended at least four events held by the association in that term or 50% of events held that term – whichever is lower.
 (h) He must be a full member of the Association.
 (i) For the role of Vice-Chairman, they must have attended at least six events held by the Association in that term, or 80% of events held that term – whichever is lower.
 (j) For the role of Vice-Chairman, they must have previously spoken at least once at a Port and Policy as a paper speaker within the current academic year and should this not have occurred prior to the term of the election, must be afforded an opportunity to do so by the Chairman in order to fulfil this requirement.
-(k) For the role of Vice-Chairman, someone must have been duly elected as an Executive Officer and served the entire period for which they were elected or, if not satisfying these conditions, obtain the permission of Committee. In all cases they must not have previously held the position of Chairman/Vice-Chairman.
+(k) For the role of Vice-Chairman, someone must have been duly elected as an Executive Officer and served the entire period for which they were elected or, if not satisfying these conditions, obtain the permission of Committee. In all cases, they must not have previously held the position of Chairman/Vice-Chairman.
 (l) The Returning Officers shall be afforded every assistance by Officers of the Association and candidates in the election, in making any inquiries they may deem necessary into the existence of facts relevant to the matters set out in this section.
 
 ### 5.4. Election Procedure
 
 (a) Any unopposed candidate is elected immediately.
 (b) The CUSU software internet link to vote must be shared with members via the Association’s email mailing list, CUCA’s social media platforms, or the CUCA website.
-(c) Any contested position is resolved by electronic ballot using CUSU software, open from 7am to 7pm, at a date prior to the TGM on a weekday excluding Friday. The Returning Officers must disable the Re-Open Nominations (RON) option.
+(c) Any contested position is resolved by electronic ballot using CUSU software, open from 7 am to 7 pm, at a date prior to the TGM on a weekday excluding Friday. The Returning Officers must disable the Re-Open Nominations (RON) option.
 (d) The Electoral Roll is drawn from the membership list of the Association. Only members in statu pupillari, who have attended at least one event held by the Association that term or who have purchased a ticket for that term’s Chairman’s Dinner are eligible to vote in that term’s elections.
-(e) The Returning Officers will enable members to individually verify determine whether or not they are included on the Electoral Roll 24 hours before voting opens. appropriate, corrected. After 00:00 on the day of the election the Electoral Role is final.
+(e) The Returning Officers will enable members to individually verify and determine whether or not they are included on the Electoral Roll 24 hours before voting opens. appropriate, corrected. After 00:00 on the day of the election the Electoral Role is final.
 (f) No member who joined the Association after the opening of nominations for an election may vote in that election.
 (g) In the event of a tie, the candidates tied shall engage in a lot. The Returning Officers shall determine the form.
 (h) Successful candidates shall hold the position to which they have been elected from the close of the TGM following their election.
@@ -364,15 +364,15 @@ No member shall be eligible to stand for election to Committee unless they meet 
 
 (a) Each Candidate may attend a Hustings, in order to inform the members of the Association of their plans and answer questions about these plans.
 (b) If a candidate is unable to attend Hustings, they may present the Returning Officers a speech to be read to the assembled members. The speech must be written to a reasonable length for the time limit assigned to their prospective Office.
-(c) One Returning Officer shall chair the Hustings, the second shall act as timekeeper.
+(c) One Returning Officer shall chair the Hustings, and the second shall act as timekeeper.
 (d) For the Office of Vice-Chairman, each Candidate may make a floor speech of up to three minutes summing up their vision for the Association and their term. The timekeeper shall alert the candidate when they have been speaking for two and a half minutes. This will be followed by a reasonable number of questions. The candidate should aim to keep their responses to approximately thirty seconds.
 (e) For the Position of Campaigns Officer, Speakers Officer, Communications & Publicity Officer, Secretary and Social Events Officer, each candidate may make a floor speech of up to two minutes outlining their plans for their respective Office over that term. The timekeeper shall alert the candidate when they have been speaking for one and a half minutes. This will be followed by a reasonable number of questions and the candidate should aim to keep their responses to approximately thirty seconds.
 (f) Hustings shall be advertised with at least 72 hours’ notice.
-(g) Hustings shall be held in-person at the beginning of the final Port and Policy of Term before the election. If this is not possible, Hustings will be held online via a videoconferencing software chosen by the Returning Officers.
+(g) Hustings shall be held in person at the beginning of the final Port and Policy of Term before the election. If this is not possible, Hustings will be held online via a videoconferencing software chosen by the Returning Officers.
 
 ### 5.6. Campaigning Regulation
 
-(a) Each Candidate is entitled to one Facebook Event, to which the Returning Officers will be added to as Administrators in order to monitor content. The Candidate is free to invite as many people to the event as they wish.
+(a) Each Candidate is entitled to one Facebook Event, to which the Returning Officers will be added as Administrators in order to monitor content. The Candidate is free to invite as many people to the event as they wish.
 (b) Endorsements may be received for the individual candidate but must not reference their opposition. Endorsements must not refer in writing by name, or by the position for which they are standing on the Committee, to any other opposing candidate. Any reasonable media, in keeping with the rules may be posted in these events, including pictures, videos etc.
 (c) No candidate or other member of the Association shall attempt to cause, or cause, any elector to vote or abstain from voting for any candidate, nor attempt to influence or influence the outcome of any election, by:
     i) Offering any prospect of material gain to any person.
@@ -392,7 +392,7 @@ No member shall be eligible to stand for election to Committee unless they meet 
 
 (a) The Chairman shall send to each member of the Association in statu pupillari notification of the date and time of the election, and the names of the candidates, though no mention of their Colleges shall be made.
 (b) The Chairman and Vice-Chairman must remain neutral in elections held while they are in Office. This is to preserve a good working relationship amongst the Committee.
-(c) They may encourage members to run for election but may neither lobby nor campaign on the behalf of, nor back, a candidate or potential candidate.
+(c) They may encourage members to run for election but may neither lobby nor campaign on behalf of, nor back, a candidate or potential candidate.
 
 ### 5.9. Electoral Misconduct
 
@@ -418,7 +418,7 @@ At a Committee Meeting in the second week of the Easter Term the Committee shall
 
 ### 6.3.
 
-A candidate for appointment to Treasurern must meet the following requirements:
+A candidate for appointment to Treasurer must meet the following requirements:
 
 (a) They must during their period of service be a member of and resident in, an approved institution within the University of Cambridge.
 (b) They must not be in debt to the Association and notified as such by the Treasurer at least 48 hours before the close of nominations.
@@ -427,11 +427,11 @@ A candidate for appointment to Treasurern must meet the following requirements:
 
 ### 6.4.
 
-The vacancy shall be advertised prominently in at least one edition of the Associations newsletters and shall be announced at least two ordinary meetings of the Association together with the date and time nominations close.
+The vacancy shall be advertised prominently in at least one edition of the Association's newsletters and shall be announced at least two ordinary meetings of the Association together with the date and time nominations close.
 
 ### 6.5.
 
-Nominations shall be in writing and in accordance with 5.3 and shall be received by the Chairman for seven days before the date that the Committee had decided that nominations would close.
+Nominations shall be in writing and in accordance with 5.3 and shall be received by the Chairman seven days before the date that the Committee had decided that nominations would close.
 
 ### 6.6.
 
@@ -463,11 +463,11 @@ Current undergraduate members of Anglia Ruskin University may also hold membersh
 
 ### Schedule II – Initial Expenditure Limits
 
-Initially the expenditure limit above which explicit approval from the Committee must be sought is £80. 
+Initially, the expenditure limit above which explicit approval from the Committee must be sought is £80. 
 
 ### Schedule III – Initially Existing Subcommittees
 
 (1) The Political Action Committee, which is responsible for assisting the Campaigns Officer in their work. The Campaigns Officer, subject to ratification by the Committee, proposes the members of the Committee, and its Secretary.
 (2) The Political Advisors Committee shall assist the Association and Campaigns Officer with their campaigning roles. It shall consist of one member in each year in each college if at all possible. Its aims and objectives will be to undertake specific targeted political campaigning across the University whenever the need arises. Those people who are to become members of this committee and its organising Secretary are proposed by the Campaigns Officer and are appointed to that committee on the ratification of the Committee of the Association.
-(3) The Treasury Committee shall assist the Association and the Treasurer with responsibilities related to, though not limited to, sponsorship, and reviews the Association’s accounts every two months in order to enforce the rules set out in paragraph 3.7.1. It shall consist of three committee members and be chaired by the Treasurer. The Treasurer, subject to ratification by the Committee, appoints all three members.
+(3) The Treasury Committee shall assist the Association and the Treasurer with responsibilities related to, though not limited to, sponsorship, and review the Association’s accounts every two months in order to enforce the rules set out in paragraph 3.7.1. It shall consist of three committee members and be chaired by the Treasurer. The Treasurer, subject to ratification by the Committee, appoints all three members.
 (4) The Alumni Affairs Committee, which shall be jointly chaired by the Alumni Officers and comprise both of them, the Chairman, the Treasurer, the Secretary, the Communications Officer, the Social Events Officer, and any others who are added according to normal procedures.
