@@ -1,7 +1,6 @@
 ---
 classoption:
 - twocolumn
----
 
 # CONSTITUTION OF THE CAMBRIDGE UNIVERSITY CONSERVATIVE ASSOCIATION
 
