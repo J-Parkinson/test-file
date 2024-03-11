@@ -22,7 +22,7 @@ Any standing orders or other rules, orders or instructions derived from these ru
 
 The Constitution of the Association, with the exception of this paragraph, may be amended by a two-thirds majority vote of a General Meeting of the Association, so long as the nature of the constitutional amendment was set out in the notification of the General Meeting.
 
-No amendment to this Constitution intended to remove the position of the Senior Treasurer; to alter its prerogatives and duties or to change the criteria and procedure for the appointment of a Senior Treasurer can be put to a vote without the prior written agreement of the Junior Proctor of the University of Cambridge
+No amendment to this Constitution intended to remove the position of the Senior Treasurer; to alter its prerogatives and duties or to change the criteria and procedure for the appointment of a Senior Treasurer can be put to a vote without the prior written agreement of the Junior Proctor of the University of Cambridge.
 
 ### 1.4 Dissolution of the Association
 
