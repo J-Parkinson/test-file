@@ -1,5 +1,8 @@
 # From https://github.com/BaileyJM02/markdown-to-pdf?tab=readme-ov-file
 
+permissions:
+  repository-projects: write
+
 name: Constitution to PDF
 # This workflow is triggered on pushes to the repository.
 on:
