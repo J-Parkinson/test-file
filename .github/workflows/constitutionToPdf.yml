@@ -25,6 +25,10 @@ jobs:
           image_import: ./images
           # Default is true, can set to false to only get PDF files
           build_html: false
+      - name: set identity
+        run: |
+          git config --global user.email "updatebot@github.com"
+          git config --global user.name "updatebot"
       - name: stage changed files
         run: git add -A
       - name: commit changed files
